@@ -1,0 +1,9 @@
+Building loyalcoin
+
+See doc/readme-qt.rst for instructions on building loyalcoin-qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of loyalcoin.
+
+See doc/build-*.txt for instructions on building loyalcoin,
+the intended-for-services, no-graphical-interface, reference
+implementation of loyalcoin.
